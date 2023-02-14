@@ -3,9 +3,11 @@
 # by richard fortune
 # 14th of Feb 2023
 
-# This script will grab all useful information on a macOS system 
+# cobbled from scripts located here https://github.com/bp88/Jamf-Pro-Extension-Attributes 
+# some useful stuff in there for when we move to JAMF later! 👋 
 
-# Output will be written to a .txt file on the Desktop of the logged-in user
+# This script will grab all useful information on a macOS system 
+# Output will be written to console
 
 ###### WARNING #####
 #IMPORTANT NOTE:  
