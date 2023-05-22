@@ -5,3 +5,5 @@ Once you've cloned the repo or copied and created a version on your own machine 
 Once you've made it editable you can run it in the terminal using the following command 
 
 > ./YourScriptName.sh 
+
+![Alt text](sample-output.png?raw=true "Sample screenshot of system check output")
